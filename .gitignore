@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+venv*/
+venv_new/
+.venv/
+ENV/
+env/
+
+# Django / Python
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# pyenv
+.python-version
+
+# compiled python files
+*.pyc
+
+# Ignore external Documents folder created in workspace
+Documents_Detection of Deepfake Videos Using Long Distance Attention/
